@@ -2,7 +2,7 @@ package Level2;
 
 import java.util.Arrays;
 
-public class algorithm05 {
+public class Algorithm05 {
     static int[] answer = {};
     static int max = Integer.MIN_VALUE;
     static int[] lionArr = new int[11];
@@ -38,7 +38,7 @@ public class algorithm05 {
     }
 
     public static void main(String[] args) {
-        algorithm05 solution = new algorithm05();
+        Algorithm05 solution = new Algorithm05();
         int[] result = solution.solution(9, new int[] {0, 0, 1, 2, 0, 1, 1, 1, 1, 1, 1});
         System.out.println(Arrays.toString(result));
     }

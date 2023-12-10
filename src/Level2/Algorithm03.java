@@ -3,7 +3,7 @@ package Level2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class algorithm03 {
+public class Algorithm03 {
     public int solution(int[] queue1, int[] queue2) {
         int answer = 0;
         Queue<Integer> qq1 = new LinkedList<Integer>();

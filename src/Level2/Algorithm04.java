@@ -2,7 +2,7 @@ package Level2;
 
 import java.util.*;
 
-public class algorithm04 {
+public class Algorithm04 {
     public String solution(String[] survey, int[] choices) {
         Map<Character,Integer> map = new HashMap<>();
 

@@ -3,7 +3,7 @@ package Level1;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class algorithm01 {
+public class Algorithm01 {
     public int[] solution(String today, String[] terms, String[] privacies) {
         ArrayList<Integer> list = new ArrayList<>();
         HashMap<String, Integer> map = new HashMap<>();

@@ -1,6 +1,6 @@
 package Level2;
 
-public class algorithm02 {
+public class Algorithm02 {
     static int[] discount = {10, 20, 30, 40};
     static int maxOfSubscribe;
     static int maxOfCost;

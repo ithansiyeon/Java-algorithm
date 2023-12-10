@@ -6,7 +6,7 @@ package Level2;
  * 다시 빈 트럭 상태 일때 다시 최대 용량 만큼 수거 가능
  */
 
-public class algorithm01 {
+public class Algorithm01 {
     public long solution(int cap, int n, int[] deliveries, int[] pickups) {
         long answer = 0;
 
