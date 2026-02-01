@@ -1,4 +1,4 @@
-package Level2;
+package Programmers.Level2;
 
 /**
  * 그리드 문제

@@ -1,4 +1,8 @@
-package Level2;
+package Programmers.Level2;
+
+/**
+ * 2023 카카오 블라인드 > 표현 가능한 이진트리
+ */
 
 public class Algorithm08 {
     public int[] solution(long[] numbers) {

@@ -1,6 +1,10 @@
-package Level2;
+package Programmers.Level2;
 
 import java.util.Arrays;
+
+/**
+ * 카카오 블라인드 채용 > 양궁대회
+ */
 
 public class Algorithm05 {
     static int[] answer = {};

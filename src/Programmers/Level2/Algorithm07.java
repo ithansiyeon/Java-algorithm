@@ -1,4 +1,8 @@
-package Level2;
+package Programmers.Level2;
+
+/**
+ *  2022 카카오 블라인드 > k진수에서 소수 개수 구하기
+ */
 
 public class Algorithm07 {
     public static int solution(int n, int k) {

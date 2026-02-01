@@ -1,8 +1,12 @@
-package Level2;
+package Programmers.Level2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+
+/**
+ * 2022 블라인드 채용 > 주차 요금 계산
+ */
 
 public class Algorithm06 {
     public static int[] solution(int[] fees, String[] records) {

@@ -1,6 +1,10 @@
-package Level2;
+package Programmers.Level2;
 
 import java.util.*;
+
+/**
+ * 2022 카카오 인턴십 > 성격 유형 검사하기
+ */
 
 public class Algorithm04 {
     public String solution(String[] survey, int[] choices) {

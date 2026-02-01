@@ -1,7 +1,11 @@
-package Level2;
+package Programmers.Level2;
 
 import java.util.LinkedList;
 import java.util.Queue;
+
+/**
+ * 2022 카카오 인턴십 > 두 큐 합 같게 만들기
+ */
 
 public class Algorithm03 {
     public int solution(int[] queue1, int[] queue2) {

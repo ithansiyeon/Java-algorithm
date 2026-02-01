@@ -1,4 +1,8 @@
-package Level2;
+package Programmers.Level2;
+
+/**
+ * 2023 카카오 블라인드 채용 > 이모티콘 할인행사
+ */
 
 public class Algorithm02 {
     static int[] discount = {10, 20, 30, 40};
